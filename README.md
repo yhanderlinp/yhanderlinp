@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to code to get more helpfull
 - 💞️ I’m looking to collaborate on everything crypto related
 - 📫 How to reach me on discord: yhanderlinP#2185
+- 📫 How to reach me on twitter: @PYhanderlin
 
 <!---
 yhanderlinp/yhanderlinp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
